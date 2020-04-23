@@ -8,3 +8,4 @@ def add(x, y):
 
 def H(self):
     print('hello world!!!')
+	print('the world is durty, take care ,pls')
